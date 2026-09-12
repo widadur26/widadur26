@@ -1,0 +1,77 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Widadur Rohman",
+    "username": "WiddCally",
+    "headline": "Web Developer & Designer",
+    "affiliation": "UNUGHA UNIVERSITY",
+    "location": "CILACAP CENTRAL JAVA",
+    "status": "Learning / Building / Shipping",
+    "about": [
+      "I am a **Web Developer & Designer** focused on creating modern, responsive, and user-friendly websites. I combine coding and design skills to build websites that are visually appealing, functional, and effective.",
+      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+    ]
+  },
+  "research": {
+    "primary": "WEB DEVELOPER & FULLSTACK",
+    "direction": "Reliable autonomous systems",
+    "themes": "Tool use / evaluation / human control",
+    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+  },
+  "focus": [
+    {
+      "name": "web developer",
+      "description": "full stack, payment gateway appi key."
+    },
+    {
+      "name": "Applied AI",
+      "description": "Turning model capabilities into useful and testable software systems."
+    },
+    {
+      "name": "Developer Tools",
+      "description": "Better workflows for building, testing, and operating modern software."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project One",
+      "url": "https://github.com/widadur26/project-one",
+      "homepage": "",
+      "focus": "Primary project focus",
+      "summary": "A concise explanation of what the project does and why it matters.",
+      "heroLabel": "Primary build"
+    },
+    {
+      "name": "Project Two",
+      "url": "https://github.com/widadur26/project-two",
+      "homepage": "",
+      "focus": "Secondary project focus",
+      "summary": "A second project that supports the professional direction of this profile.",
+      "heroLabel": "Active system"
+    }
+  ],
+  "techStack": [
+    "TypeScript",
+    "Next.js",
+    "Python",
+    "PostgreSQL",
+    "Playwright"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "widadur rohman",
+      "url": "https://github.com/widadur26",
+      "logo": "github",
+      "color": "0B1220"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "signal"
+  },
+  "footer": "Building thoughtful systems and sharing what works."
+}
