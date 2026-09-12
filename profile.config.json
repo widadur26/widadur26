@@ -2,7 +2,7 @@
   "$schema": "./profile.schema.json",
   "profile": {
     "name": "Widadur Rohman",
-    "username": "WiddCally",
+    "username": "widadur26",
     "headline": "Web Developer & Designer",
     "affiliation": "UNUGHA UNIVERSITY",
     "location": "CILACAP CENTRAL JAVA",
@@ -60,7 +60,7 @@
   "links": [
     {
       "label": "GitHub",
-      "value": "widadur rohman",
+      "value": "widadur26",
       "url": "https://github.com/widadur26",
       "logo": "github",
       "color": "0B1220"
