@@ -1,82 +1,93 @@
 <div align="center">
 
-# WIDADUR ROHMAN
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:8B5CF6&height=220&section=header&text=WIDADUR%20ROHMAN&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer%20%7C%20UI%2FUX%20Engineer&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
 
-### Information Systems Student · Web Developer · UI/UX Engineer
+<br>
 
-<p>
-  <a href="mailto:widadur26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-6C63FF?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/widadur26">
-    <img src="https://img.shields.io/badge/GitHub-widadur26-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Web+Developer;UI%2FUX+Engineer;Building+Modern+Digital+Experiences;Always+Learning+%26+Improving" />
 
-<p>
-  <em>Designing interfaces. Building experiences. Solving problems with technology.</em>
-</p>
+<br><br>
+
+<a href="https://github.com/widadur26">
+<img src="https://img.shields.io/badge/GitHub-widadur26-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:widadur26@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## ABOUT ME
-
-I'm **Widadur Rohman**, an **Information Systems student at UNUGHA University** with a strong interest in **Web Development** and **UI/UX Engineering**.
-
-I enjoy transforming ideas into digital products that are **functional, responsive, intuitive, and visually refined**.
-
-My current focus is building a strong foundation in modern web technologies while developing my ability to design user-centered digital experiences.
+# 👨‍💻 About Me
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  Name        →  Widadur Rohman                     │
-│  Education   →  Information Systems                │
-│  University  →  UNUGHA University                  │
-│  Focus       →  Web Development & UI/UX             │
-│  Location    →  Indonesia                           │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+Hello! I'm Widadur Rohman.
+
+I'm an Information Systems student at UNUGHA University
+with a strong passion for Web Development and UI/UX Engineering.
+
+I enjoy transforming ideas into modern digital products
+that are functional, responsive, intuitive, and visually engaging.
+
+Currently, I'm continuously improving my skills in
+Front-End Development, UI/UX Design, and modern web technologies.
 ```
+
+### My Direction
+
+> **Design with purpose. Build with technology. Create meaningful experiences.**
 
 ---
 
-## WHAT I DO
+# ⚡ Expertise & Tech Stack
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,git,github,vercel" />
+</p>
+
+### 🎨 UI / UX & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+### 🧰 Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,github,git,vercel,npm" />
+</p>
+
+---
+
+# 🧠 What I Focus On
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### WEB DEVELOPMENT
+### 💻 WEB DEVELOPMENT
 
-Building modern and responsive web interfaces with a focus on clean code, performance, usability, and maintainability.
-
-**Focus**
-
-* Front-End Development
-* Responsive Web Design
-* Interactive Interfaces
-* Component-Based Development
-* Web Deployment
+Building responsive and modern websites with clean interfaces and structured code.
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### UI/UX ENGINEERING
+### 🎨 UI / UX
 
-Combining design principles with development to create digital experiences that are simple, intuitive, and user-focused.
+Designing intuitive interfaces focused on usability, consistency, and user experience.
 
-**Focus**
+</td>
 
-* User Interface Design
-* User Experience
-* Wireframing
-* Prototyping
-* Design Systems
-* Usability
+<td width="33%" align="center">
+
+### 🚀 DIGITAL PRODUCT
+
+Turning concepts and ideas into useful and engaging digital experiences.
 
 </td>
 </tr>
@@ -84,61 +95,85 @@ Combining design principles with development to create digital experiences that 
 
 ---
 
-## TECHNOLOGIES & TOOLS
+# 🚀 Featured Projects
 
-### Development
+<table>
+<tr>
+<td width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github,vercel" />
-</p>
+## 📚 Library System
 
-### Design
+**Integrated Library Borrowing System**
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-</p>
+A web-based information system designed to simplify library borrowing and management.
+
+**Focus**
+
+`Web Development`
+`UI/UX`
+`Information Systems`
+
+</td>
+
+<td width="50%">
+
+## ✈️ Airport Website
+
+**Modern Airport Website**
+
+A responsive website concept designed to provide airport information through a clean and intuitive interface.
+
+**Focus**
+
+`Front-End`
+`Responsive Design`
+`UI/UX`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 💎 Premium Apps
+
+**Premium Application Website**
+
+A modern digital product interface designed with a clean and attractive visual experience.
+
+**Focus**
+
+`Web Design`
+`Front-End`
+`UI Design`
+
+</td>
+
+<td width="50%">
+
+## 🧩 More Projects
+
+Currently working on new projects and continuously improving my portfolio.
+
+**Coming Soon**
+
+`Web Development`
+`UI/UX`
+`Creative Technology`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## SELECTED PROJECTS
-
-### 01 — Integrated Library Management System
-
-**Web-based information system for integrated library borrowing and management.**
-
-Designed with a focus on simplifying the borrowing process while providing an intuitive interface for users.
-
-`Web Development` · `UI/UX` · `Information Systems`
-
----
-
-### 02 — Airport Website
-
-**Modern airport website interface designed around clarity and accessibility.**
-
-Focused on presenting important information through a clean, responsive, and user-friendly interface.
-
-`Front-End` · `Responsive Design` · `UI/UX`
-
----
-
-### 03 — Premium Application Website
-
-**Modern landing page for digital premium application services.**
-
-Designed to create a visually appealing interface while keeping the user journey simple and clear.
-
-`Web Design` · `Front-End` · `UI Design`
-
----
-
-## GITHUB ACTIVITY
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=widadur26&show_icons=true&hide_border=true&theme=transparent&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=widadur26&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widadur26&layout=compact&hide_border=true&theme=transparent&title_color=6C63FF&text_color=FFFFFF&bg_color=0D1117" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widadur26&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" width="40%"/>
 
 </div>
 
@@ -146,29 +181,16 @@ Designed to create a visually appealing interface while keeping the user journey
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=widadur26&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=FFFFFF&dates=888888" width="70%" />
+<img src="https://streak-stats.demolab.com?user=widadur26&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=888888" width="70%"/>
 
 </div>
 
 ---
 
-## CURRENTLY FOCUSING ON
+# 🐍 My Contribution Snake
 
-```text
-Web Development
-████████████████████░░  85%
+<div align="center">
 
-UI / UX Design
-██████████████████░░░░  75%
+<img src="https://raw.githubusercontent.com/widadur26/widadur26/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-Front-End Development
-███████████████████░░░  80%
-
-Design Systems
-███████████████░░░░░░░  65%
-
-Problem Solving
-██████████████████░░░░  75%
-``
-```
-
+</
