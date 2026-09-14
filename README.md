@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,45:4C1D95,75:7C3AED,100:0D1117&text=WIDADUR%20ROHMAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DEVELOPER%20%20%7C%20%20UI%2FUX%20ENGINEER&descAlignY=57&descSize=18&descColor=C4B5FD&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:09090B,40:312E81,75:7C3AED,100:09090B&text=WIDADUR%20ROHMAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20UI%2FUX%20ENGINEER&descAlignY=57&descSize=18&descColor=C4B5FD&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Information+Systems+Student+%40+UNUGHA+University;Web+Developer+%7C+UI%2FUX+Engineer;Creating+Modern+Digital+Experiences;Turning+Ideas+Into+Interfaces;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Information+Systems+Student+%40+UNUGHA+University;Web+Developer+%7C+UI%2FUX+Engineer;Building+Modern+%26+Responsive+Web+Experiences;Designing+Interfaces+People+Love+to+Use;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" />
 
 <br/><br/>
 
@@ -26,60 +26,54 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=widadur26&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=widadur26&label=PROFILE%20VISITORS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# `01` — ABOUT ME
+<div align="center">
+
+# `01` — PROFILE
+
+</div>
 
 <table>
 <tr>
-<td width="58%">
+<td width="60%">
 
-### Hello, I'm Widadur 👋
+### Hello, I'm Widadur.
 
-I'm **Widadur Rohman**, an **Information Systems student at UNUGHA University** with a strong passion for **Web Development and UI/UX Engineering**.
+I'm **Widadur Rohman**, an **Information Systems student at UNUGHA University** with a strong interest in **Web Development and UI/UX Engineering**.
 
-I enjoy combining **design, technology, and problem-solving** to transform ideas into modern digital experiences.
+I enjoy transforming ideas into digital products that are **modern, responsive, intuitive, and visually engaging**.
 
-My current journey focuses on developing interfaces that are:
+My journey combines **development and design**, allowing me to understand both how a product should look and how it should work.
 
-* Clean
-* Responsive
-* Intuitive
-* Functional
-* User-centered
-* Visually engaging
-
-I'm continuously learning, building projects, and improving my development workflow to grow into a professional **Web Developer & UI/UX Engineer**.
+Currently, I'm focused on improving my skills, building real-world projects, and developing a professional portfolio.
 
 </td>
 
-<td width="42%" align="center">
+<td width="40%" align="center">
 
-### `PROFILE`
+### `QUICK INFO`
 
 ```text
-NAME
+Name
 Widadur Rohman
 
-ROLE
+Education
+Information Systems
+
+University
+UNUGHA University
+
+Role
 Web Developer
 UI/UX Engineer
 
-EDUCATION
-Information Systems
-
-UNIVERSITY
-UNUGHA University
-
-BASED IN
+Based
 Indonesia
-
-FOCUS
-Web & Digital Products
 ```
 
 </td>
@@ -88,38 +82,153 @@ Web & Digital Products
 
 ---
 
-# `02` — WHAT I DO
+# `02` — CORE EXPERTISE
+
+<div align="center">
 
 <table>
 <tr>
 
 <td align="center" width="33%">
 
-## `WEB`
+### WEB DEVELOPMENT
 
-### Web Development
-
-I build responsive and modern web interfaces with a focus on usability, structure, and clean implementation.
+Building modern and responsive websites with structured code, reusable components, and smooth interactions.
 
 </td>
 
 <td align="center" width="33%">
 
-## `DESIGN`
+### UI / UX ENGINEERING
 
-### UI/UX Engineering
-
-I design interfaces with attention to visual hierarchy, consistency, accessibility, and user experience.
+Designing intuitive interfaces with attention to usability, hierarchy, consistency, and user experience.
 
 </td>
 
 <td align="center" width="33%">
 
-## `PRODUCT`
+### DIGITAL PRODUCT
 
-### Digital Products
+Transforming ideas into practical digital experiences through research, design, development, and iteration.
 
-I enjoy turning ideas into practical digital products through an iterative design and development process.
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# `03` — TECH STACK
+
+<div align="center">
+
+## FRONT-END DEVELOPMENT
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" />
+
+<br/><br/>
+
+`HTML5` · `CSS3` · `JavaScript` · `React` · `Vite` · `Tailwind CSS` · `Bootstrap`
+
+---
+
+## BACK-END & DATABASE
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" />
+
+<br/><br/>
+
+`Node.js` · `PHP` · `Laravel` · `MySQL`
+
+---
+
+## UI / UX & CREATIVE
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+
+<br/><br/>
+
+`Figma` · `Photoshop` · `Illustrator`
+
+---
+
+## DEVELOPMENT & DEPLOYMENT
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
+
+<br/><br/>
+
+`Git` · `GitHub` · `VS Code` · `NPM` · `Vercel`
+
+</div>
+
+---
+
+# `04` — WHAT I CAN BUILD
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 MODERN WEBSITES
+
+* Landing Pages
+* Portfolio Websites
+* Company Websites
+* Responsive Web Interfaces
+* Interactive Web Experiences
+
+</td>
+
+<td width="50%">
+
+### 🖥️ INFORMATION SYSTEMS
+
+* Library Systems
+* Management Systems
+* Web-Based Applications
+* Dashboard Interfaces
+* CRUD Applications
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎨 UI / UX
+
+* User Interface Design
+* Wireframes
+* Prototypes
+* Design Systems
+* Responsive UI
+* User-Centered Design
+
+</td>
+
+<td width="50%">
+
+### 🚀 DEVELOPMENT
+
+* Front-End Development
+* Component-Based UI
+* Git Version Control
+* Web Deployment
+* Continuous Improvement
 
 </td>
 
@@ -128,60 +237,36 @@ I enjoy turning ideas into practical digital products through an iterative desig
 
 ---
 
-# `03` — TECH STACK
-
-<div align="center">
-
-### FRONT-END
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
-
-<br/><br/>
-
-### UI / UX
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-
-<br/><br/>
-
-### DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
-
-</div>
-
----
-
-# `04` — FEATURED WORK
+# `05` — SELECTED PROJECTS
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 📚 INTEGRATED LIBRARY SYSTEM
+## 📚 INTEGRATED LIBRARY SYSTEM
 
-**Integrated Library Borrowing System**
+### Web-Based Library Borrowing System
 
-A web-based information system designed to simplify library borrowing and management through an intuitive digital experience.
+An integrated library system designed to simplify book borrowing and management through a modern digital interface.
 
-**Focus**
+**Technology Focus**
 
-`Information Systems`
 `Web Development`
-`UI/UX Design`
+`Information Systems`
+`UI/UX`
 
 </td>
 
 <td width="50%">
 
-### ✈️ AIRPORT WEBSITE
+## ✈️ AIRPORT WEBSITE
 
-**Modern Airport Web Experience**
+### Modern Airport Web Experience
 
-A modern website concept designed to present airport information through a clean, structured, and responsive interface.
+A responsive airport website concept designed to deliver important information through a clean and intuitive interface.
 
-**Focus**
+**Technology Focus**
 
 `Front-End`
 `Responsive Design`
@@ -195,13 +280,13 @@ A modern website concept designed to present airport information through a clean
 
 <td width="50%">
 
-### 💎 PREMIUM APPLICATION
+## 💎 PREMIUM APPLICATION
 
-**Premium Application Website**
+### Premium Application Website
 
-A modern digital interface designed to present premium application services with a strong visual hierarchy and simple user journey.
+A modern digital interface designed to showcase premium application services with a strong visual hierarchy.
 
-**Focus**
+**Technology Focus**
 
 `Web Design`
 `Front-End`
@@ -211,11 +296,11 @@ A modern digital interface designed to present premium application services with
 
 <td width="50%">
 
-### 🚀 FUTURE PROJECTS
+## 🚀 NEXT PROJECT
 
-**More projects are coming.**
+### Currently Building
 
-I'm continuously experimenting with new ideas, technologies, interfaces, and real-world information systems.
+Continuously exploring new ideas and technologies while developing real-world projects for my portfolio.
 
 **Status**
 
@@ -228,59 +313,57 @@ I'm continuously experimenting with new ideas, technologies, interfaces, and rea
 
 ---
 
-# `05` — MY DEVELOPMENT PHILOSOPHY
+# `06` — DEVELOPMENT WORKFLOW
 
 <div align="center">
 
-### DESIGN × TECHNOLOGY × EXPERIENCE
-
-<br/>
-
 ```text
-┌─────────────┐
-│    IDEA     │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│  RESEARCH   │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│   DESIGN    │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│   DEVELOP   │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│    TEST     │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│   DEPLOY    │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│   IMPROVE   │
-└──────┬──────┘
-       │
-       └───────────────↻
+        ┌──────────────┐
+        │    IDEA      │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   RESEARCH   │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    DESIGN    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   DEVELOP    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     TEST     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    DEPLOY    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   IMPROVE    │
+        └──────┬───────┘
+               │
+               └────────────↻
 ```
 
 </div>
 
-> **Good design solves problems. Good development turns solutions into reality.**
+### My Principle
+
+> **Understand the problem → Design the solution → Build the product → Improve the experience.**
 
 ---
 
-# `06` — GITHUB ANALYTICS
+# `07` — GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=widadur26&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=widadur26&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&bg_color=09090B&title_color=A78BFA&icon_color=A78BFA&text_color=E5E7EB" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widadur26&layout=compact&hide_border=true&langs_count=8&theme=transparent&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widadur26&layout=compact&langs_count=8&hide_border=true&theme=transparent&bg_color=09090B&title_color=A78BFA&text_color=E5E7EB" width="40%"/>
 
 </div>
 
@@ -288,137 +371,110 @@ I'm continuously experimenting with new ideas, technologies, interfaces, and rea
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=widadur26&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=widadur26&hide_border=true&background=09090B&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
 
 </div>
 
 ---
 
-# `07` — CONTRIBUTION ACTIVITY
+# `08` — CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=widadur26&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=widadur26&bg_color=09090B&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-# `08` — CURRENT FOCUS
+# `09` — CURRENTLY LEARNING
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%">
+<img src="https://img.shields.io/badge/Advanced%20Frontend-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-A78BFA?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-6D5DFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design%20Systems-7C3AED?style=for-the-badge"/>
 
-### DEVELOPMENT
+</div>
+
+---
+
+# `10` — 2026 GOALS
+
+<div align="center">
+
+|    #   | OBJECTIVE                                       |
+| :----: | :---------------------------------------------- |
+| **01** | Become stronger in modern Front-End Development |
+| **02** | Deepen UI/UX Engineering knowledge              |
+| **03** | Build real-world Information Systems            |
+| **04** | Create high-quality digital products            |
+| **05** | Build a strong professional portfolio           |
+| **06** | Improve development workflow & best practices   |
+| **07** | Collaborate on meaningful technology projects   |
+
+</div>
+
+---
+
+# `11` — DEVELOPER MINDSET
+
+<div align="center">
 
 ```text
-▸ Modern Front-End
-▸ React Development
-▸ Responsive Web
-▸ Component Architecture
-▸ Git & GitHub Workflow
-▸ Web Deployment
+LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+REPEAT
 ```
 
-</td>
-
-<td width="50%">
-
-### DESIGN
-
-```text
-▸ UI Design
-▸ UX Thinking
-▸ Wireframing
-▸ Prototyping
-▸ Visual Hierarchy
-▸ Design Systems
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `09` — 2026 GOALS
-
-<div align="center">
-
-|      | GOAL                                   |
-| :--: | :------------------------------------- |
-| `01` | Strengthen Front-End Development       |
-| `02` | Deepen UI/UX Engineering               |
-| `03` | Build Real-World Information Systems   |
-| `04` | Create Better Digital Products         |
-| `05` | Build a Strong Professional Portfolio  |
-| `06` | Collaborate on Meaningful Projects     |
-| `07` | Continuously Learn Modern Technologies |
+### Every project is a chance to become better.
 
 </div>
 
 ---
 
-# `10` — BEYOND THE CODE
+# `12` — CONNECT WITH ME
 
 <div align="center">
 
-### `LEARN`
-
-I believe every project is an opportunity to learn something new.
-
-### `BUILD`
-
-Knowledge becomes valuable when it is transformed into something real.
-
-### `IMPROVE`
-
-There is always a better interface, cleaner solution, or smarter approach.
-
-<br/>
-
-**LEARN → BUILD → IMPROVE → REPEAT**
-
-</div>
-
----
-
-# `11` — CONNECT WITH ME
-
-<div align="center">
-
-### Let's create something meaningful together.
+### Let's build something meaningful.
 
 <br/>
 
 <a href="mailto:widadur26@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-widadur26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-widadur26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/widadur26">
-<img src="https://img.shields.io/badge/GitHub-widadur26-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-widadur26-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/widdcaly_/">
+<img src="https://img.shields.io/badge/INSTAGRAM-widdcaly__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@widdcally">
+<img src="https://img.shields.io/badge/TIKTOK-widdcally-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<a href="https://www.instagram.com/widdcaly_/">
-<img src="https://img.shields.io/badge/Instagram-widdcaly__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/FACEBOOK-Widadur%20Rohman-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 
-<a href="https://www.tiktok.com/@widdcally">
-<img src="https://img.shields.io/badge/TikTok-widdcally-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Facebook-Widadur%20Rohman-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Widadur%20Rohman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/LINKEDIN-Widadur%20Rohman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </div>
 
@@ -428,10 +484,14 @@ There is always a better interface, cleaner solution, or smarter approach.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile.;Let's+build+something+great.;See+you+in+the+next+commit+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=A78BFA&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile.;Keep+learning.+Keep+building.;See+you+in+the+next+commit." />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:8B5CF6&height=130&section=footer" width="100%"/>
+<em>“Turning ideas into digital experiences.”</em>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:6D28D9,100:8B5CF6&height=140&section=footer" width="100%"/>
 
 </div>
