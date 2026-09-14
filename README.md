@@ -1,45 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05000A,35:240046,70:6A0DAD,100:A855F7&text=WIDADUR%20ROHMAN&fontColor=FFFFFF&fontSize=50&fontAlignY=35&desc=WEB%20DEVELOPER%20%E2%80%A2%20UI%2FUX%20ENGINEER&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4C1D95,25:7C3AED,50:A855F7,75:EC4899,100:06B6D4&text=WIDADUR%20ROHMAN&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=WEB%20DEVELOPER%20%E2%80%A2%20UI%2FUX%20ENGINEER&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=C084FC&center=true&vCenter=true&width=750&lines=%3E+Hello%2C+I'm+Widadur+Rohman+%F0%9F%91%8B;%3E+Information+Systems+Student+%F0%9F%8E%93;%3E+Web+Developer+%F0%9F%92%BB;%3E+UI%2FUX+Engineer+%F0%9F%8E%A8;%3E+Building+Digital+Experiences+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Widadur+Rohman+%F0%9F%91%8B;Information+Systems+Student+%F0%9F%8E%93;Web+Developer+%F0%9F%92%BB;UI%2FUX+Engineer+%F0%9F%8E%A8;Building+Modern+Digital+Experiences+%F0%9F%9A%80" />
 
 <br>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20BUILD-7C3AED?style=for-the-badge&labelColor=0D001A"/>
-<img src="https://img.shields.io/badge/FOCUS-WEB%20%2B%20UI%2FUX-A855F7?style=for-the-badge&labelColor=0D001A"/>
-<img src="https://img.shields.io/badge/LOCATION-INDONESIA-9333EA?style=for-the-badge&labelColor=0D001A"/>
-
-<br><br>
 
 <a href="https://github.com/widadur26">
 <img src="https://img.shields.io/badge/GitHub-widadur26-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:widadur26@gmail.com">
-<img src="https://img.shields.io/badge/Email-widadur26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/widdcaly_/">
-<img src="https://img.shields.io/badge/Instagram-widdcaly_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.tiktok.com/@widdcally">
-<img src="https://img.shields.io/badge/TikTok-widdcally-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=widadur26&label=PROFILE%20VISITORS&color=A855F7&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 👋 Welcome to My Digital Space
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Designing+interfaces+that+people+enjoy+using.;Building+websites+that+look+good+and+work+well.;Learning+today.+Building+tomorrow.+%F0%9F%9A%80" />
+<img src="https://komarev.com/ghpvc/?username=widadur26&label=PROFILE%20VISITORS&color=8B5CF6&style=for-the-badge"/>
 
 </div>
 
@@ -47,86 +31,68 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Widadur Rohman**, an **Information Systems student at UNUGHA University** who is passionate about creating modern digital experiences.
+<div align="center">
 
-My main interests are:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=750&lines=Information+Systems+Student+at+UNUGHA+University;Passionate+about+Web+Development+%26+UI%2FUX;Learning+%E2%86%92+Building+%E2%86%92+Improving" />
 
-* 🌐 **Web Development**
-* 🎨 **UI/UX Engineering**
-* ⚛️ **Frontend Development**
-* 💡 **Digital Product Development**
-* 📱 **Responsive Web Design**
+</div>
 
-I enjoy taking an idea from **concept → design → development → deployment**.
+I'm **Widadur Rohman**, an Information Systems student at **UNUGHA University** with a strong interest in **Web Development** and **UI/UX Engineering**.
+
+I enjoy turning ideas into digital products that are:
+
+* 🌐 **Responsive**
+* 🎨 **Visually attractive**
+* ⚡ **Interactive**
+* 🧩 **Functional**
+* 📱 **Mobile friendly**
+
+---
+
+# 🌈 What I Do
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────╮
-│                                                  │
-│   💡 IDEA                                       │
-│      ↓                                           │
-│   🎨 DESIGN                                     │
-│      ↓                                           │
-│   💻 DEVELOPMENT                                │
-│      ↓                                           │
-│   🧪 TESTING                                    │
-│      ↓                                           │
-│   🚀 DEPLOYMENT                                 │
-│      ↓                                           │
-│   🔄 IMPROVEMENT                                │
-│                                                  │
-╰──────────────────────────────────────────────────╯
-```
+|  🌐 Web Development | 🎨 UI/UX Engineering |  🚀 Digital Product |
+| :-----------------: | :------------------: | :-----------------: |
+| Responsive Websites |    User Interface    |   Product Concepts  |
+|  React Applications |      Wireframes      |   User Experience   |
+|    Landing Pages    |      Prototypes      | Information Systems |
+|    Interactive UI   |     Visual Design    |  Digital Solutions  |
 
 </div>
 
 ---
 
-# ⚡ My Expertise
+# 🛠️ Tech Stack
 
 <div align="center">
 
-|  🌐 WEB DEVELOPMENT | 🎨 UI/UX ENGINEERING | 🚀 DIGITAL PRODUCT |
-| :-----------------: | :------------------: | :----------------: |
-| Responsive Websites |    User Interface    |   Product Design   |
-|  React Applications |      Wireframing     |   User Experience  |
-|    Landing Pages    |      Prototyping     | System Development |
-|    Interactive UI   |    Design Systems    |  Digital Solutions |
+### 🌐 Frontend
 
-</div>
-
----
-
-# 🧰 Tech Stack
-
-<div align="center">
-
-### 💻 Core Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap&perline=7"/>
 
 <br><br>
 
-### 🎨 Design & UI/UX
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=3"/>
-
-<br><br>
-
-### 🌐 Web & Backend
+### ⚙️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql&perline=4"/>
 
 <br><br>
 
-### 📦 Frameworks & Tools
+### 🎨 UI/UX & Design
 
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,npm,vercel&perline=4"/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=3"/>
 
 <br><br>
 
-### 🔭 Currently Exploring
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel&perline=5"/>
+
+<br><br>
+
+### 📚 Currently Learning
 
 <img src="https://skillicons.dev/icons?i=typescript,nextjs,python&perline=3"/>
 
@@ -134,75 +100,53 @@ I enjoy taking an idea from **concept → design → development → deployment*
 
 ---
 
-# 🔥 Skills in Motion
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=500&color=C084FC&center=true&vCenter=true&width=750&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+React;UI%2FUX+%7C+Figma+%7C+Responsive+Design;Git+%7C+GitHub+%7C+Vite+%7C+Vercel;Always+Learning+New+Technologies+%F0%9F%94%A5" />
-
-</div>
-
----
-
 # 🚀 Featured Projects
-
-<div align="center">
 
 ### 📚 Integrated Library System
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Integrated+Library+Borrowing+System;Web-Based+Information+System;Clean+%2B+Responsive+Interface" />
+**Sistem Peminjaman Perpustakaan Terpadu Berbasis Website**
 
-**Web-based integrated library borrowing system** designed to improve library service management and user experience.
+A web-based library borrowing system designed to make library services more organized and accessible.
 
-`Web Development` `UI/UX` `Information System`
+**Focus:** `Web Development` · `UI/UX` · `Information System`
 
 ---
 
 ### ✈️ Airport Website
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Modern+Airport+Website;Responsive+Web+Interface;Information+%2B+User+Experience" />
+A modern airport website concept designed with a clean layout and responsive interface.
 
-Modern airport website concept focused on clean layout, accessibility, and responsive design.
-
-`Web Design` `Responsive UI` `UX`
+**Focus:** `Web Design` · `Responsive UI` · `User Experience`
 
 ---
 
 ### 💎 Premium Application Website
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Premium+Digital+Application+Website;Modern+Product+Presentation;Clean+%2B+Interactive+UI" />
-
 A modern website concept for presenting premium digital applications.
 
-`UI Design` `Web Development` `Digital Product`
+**Focus:** `UI Design` · `Web Development` · `Digital Product`
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=widadur26&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=141321&title_color=A855F7&icon_color=06B6D4&text_color=FFFFFF" width="95%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widadur26&layout=compact&langs_count=8&hide_border=true&theme=radical&bg_color=141321&title_color=EC4899&text_color=FFFFFF" width="75%"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Dashboard
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=widadur26&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D001A&title_color=A855F7&icon_color=C084FC&text_color=FFFFFF" width="95%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widadur26&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D001A&title_color=A855F7&text_color=FFFFFF" width="75%"/>
-
-</div>
-
----
-
-# 🔥 Coding Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=widadur26&theme=tokyonight&hide_border=true&background=0D001A&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=AAAAAA" width="95%"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Every+commit+is+a+step+forward.;Consistency+%3E+Perfection.;Keep+coding.+Keep+growing.+%F0%9F%94%A5" />
+<img src="https://streak-stats.demolab.com?user=widadur26&theme=radical&hide_border=true&background=141321&ring=A855F7&fire=EC4899&currStreakLabel=06B6D4&sideLabels=FFFFFF&dates=AAAAAA" width="95%"/>
 
 </div>
 
@@ -212,17 +156,17 @@ A modern website concept for presenting premium digital applications.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=widadur26&bg_color=0D001A&color=FFFFFF&line=A855F7&point=C084FC&area=true&hide_border=true&custom_title=Widadur's%20Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=widadur26&bg_color=141321&color=FFFFFF&line=A855F7&point=06B6D4&area=true&hide_border=true&custom_title=Widadur%27s%20Contribution%20Activity" width="100%"/>
 
 </div>
 
 ---
 
-# 🎯 Currently Working On
+# 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=600&color=C084FC&center=true&vCenter=true&width=700&lines=%F0%9F%8C%90+Building+Modern+Websites;%F0%9F%8E%A8+Improving+UI%2FUX+Skills;%E2%9A%9B%EF%B8%8F+Learning+React+Development;%F0%9F%93%B1+Improving+Responsive+Design;%F0%9F%9A%80+Building+Real-World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=06B6D4&center=true&vCenter=true&width=750&lines=%F0%9F%8C%90+Building+Modern+Websites;%F0%9F%8E%A8+Improving+UI%2FUX;%E2%9A%9B%EF%B8%8F+Developing+with+React;%F0%9F%93%B1+Responsive+Web+Design;%F0%9F%9A%80+Building+Real-World+Projects" />
 
 </div>
 
@@ -232,7 +176,7 @@ A modern website concept for presenting premium digital applications.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Think+%F0%9F%92%AD;Design+%F0%9F%8E%A8;Code+%F0%9F%92%BB;Test+%F0%9F%A7%AA;Deploy+%F0%9F%9A%80;Improve+%F0%9F%94%84" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=500&color=EC4899&center=true&vCenter=true&width=650&lines=Think+%F0%9F%92%AD;Design+%F0%9F%8E%A8;Code+%F0%9F%92%BB;Test+%F0%9F%A7%AA;Deploy+%F0%9F%9A%80;Improve+%F0%9F%94%84" />
 
 <br>
 
@@ -246,37 +190,43 @@ A modern website concept for presenting premium digital applications.
 
 <div align="center">
 
-| Goal               | Mission                                  |
-| :----------------- | :--------------------------------------- |
-| 🌐 Web Development | Build better & scalable websites         |
-| 🎨 UI/UX           | Create intuitive interfaces              |
-| ⚛️ React           | Build more real-world projects           |
-| 💼 Portfolio       | Create a stronger professional portfolio |
-| 🚀 Digital Product | Turn ideas into useful products          |
-| 📚 Learning        | Continuously improve technical skills    |
+🌐 **Web Development**
+Build better and more responsive websites.
+
+🎨 **UI/UX Engineering**
+Create interfaces that are beautiful and easy to use.
+
+⚛️ **React Development**
+Build more interactive and real-world applications.
+
+💼 **Professional Portfolio**
+Continue building projects that demonstrate my skills.
+
+📚 **Continuous Learning**
+Keep exploring new technologies and improving every day.
 
 </div>
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="mailto:widadur26@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/widadur26">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/widdcaly_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.tiktok.com/@widdcally">
-<img src="https://img.shields.io/badge/TIKTOK-FOLLOW-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/TIKTOK-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 </div>
@@ -285,11 +235,11 @@ A modern website concept for presenting premium digital applications.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%92%9C;See+you+in+the+next+commit+%F0%9F%9A%80;Let's+build+something+amazing!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%92%9C;Let's+build+something+amazing+%F0%9F%9A%80;Keep+Learning.+Keep+Building.+Keep+Growing." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=widadur26&label=THANKS%20FOR%20VISITING&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=widadur26&label=VISITS&color=EC4899&style=for-the-badge"/>
 
 <br><br>
 
@@ -297,6 +247,6 @@ A modern website concept for presenting premium digital applications.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:A855F7,40:6A0DAD,70:240046,100:05000A&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:06B6D4,25:3B82F6,50:7C3AED,75:EC4899,100:A855F7&section=footer&animation=twinkling" width="100%"/>
 
 </div>
