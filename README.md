@@ -134,12 +134,42 @@ const widadur = {
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
+  <a href="mailto:widadur26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-widadur26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
   <a href="https://github.com/widadur26">
     <img src="https://img.shields.io/badge/GitHub-widadur26-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="https://www.instagram.com/widdcaly_/">
+    <img src="https://img.shields.io/badge/Instagram-widdcaly__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.tiktok.com/@widdcally">
+    <img src="https://img.shields.io/badge/TikTok-widdcally-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Facebook-Widadur%20Rohman-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/LinkedIn-Widadur%20Rohman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=widadur26&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 </p>
 
 ---
