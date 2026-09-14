@@ -8,9 +8,9 @@
   </a>
 
   <p align="center">
-    🎓 <b>Information Systems</b> scholar at <b>Universitas Nahdlatul Ulama Al Ghazali (UNUGHA) Cilacap</b><br/>
-    📍 Based in <b>Cilacap, Central Java, Indonesia</b><br/>
-    ⚡ Bridging dynamic frontend interfaces with reliable, scalable backend architecture.
+    <b>Information Systems</b> scholar at <b>Universitas Nahdlatul Ulama Al Ghazali (UNUGHA) Cilacap</b><br/>
+    Based in <b>Cilacap, Central Java, Indonesia</b><br/>
+    Bridging dynamic frontend interfaces with reliable, scalable backend architecture.
   </p>
 
   <!-- Professional Badges -->
@@ -35,7 +35,7 @@
 
 ---
 
-### 🕹️ Contribution Arcade
+### Contribution Arcade
 
 <p align="center">
   <picture>
@@ -47,20 +47,26 @@
 
 ---
 
-### 💻 Core Stack & Technologies
+### Core Stack & Technologies
 
 <div align="center">
   <!-- Frontend & UI/UX -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css,figma" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css" /><br/><br/>
   <!-- Backend & Database -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,postman" /><br/><br/>
   <!-- Environment & DevOps Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,powershell" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,powershell" /><br/><br/>
+  <!-- Design & Video Editing (using custom shields for tools not in skillicons) -->
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alight%20Motion-000000?style=for-the-badge&logo=alightmotion&logoColor=white" />
 </div>
 
 ---
 
-### 📊 Performance Metrics
+### Performance Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=widadur26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" width="49%" />
@@ -73,7 +79,7 @@
 
 ---
 
-### 🏆 Engineering Badges
+### Engineering Badges
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=widadur26&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
