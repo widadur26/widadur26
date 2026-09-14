@@ -9,77 +9,77 @@
 <br><br>
 
 <a href="https://github.com/widadur26">
-<img src="https://img.shields.io/badge/GitHub-widadur26-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-widadur26-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:widadur26@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-widadur26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/widdcaly_/">
+<img src="https://img.shields.io/badge/Instagram-widdcaly__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@widdcally">
+<img src="https://img.shields.io/badge/TikTok-widdcally-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
-```text
-Hello! I'm Widadur Rohman.
+I'm **Widadur Rohman**, an **Information Systems student at UNUGHA University** with a strong interest in **Web Development** and **UI/UX Engineering**.
 
-I'm an Information Systems student at UNUGHA University
-with a strong passion for Web Development and UI/UX Engineering.
+I enjoy transforming ideas into modern digital products that are **functional, responsive, intuitive, and visually engaging**.
 
-I enjoy transforming ideas into modern digital products
-that are functional, responsive, intuitive, and visually engaging.
-
-Currently, I'm continuously improving my skills in
-Front-End Development, UI/UX Design, and modern web technologies.
-```
-
-### My Direction
+Currently, I am continuously developing my skills in **Front-End Development, UI/UX Design, Responsive Web Design, and modern web technologies**.
 
 > **Design with purpose. Build with technology. Create meaningful experiences.**
 
 ---
 
-# ⚡ Expertise & Tech Stack
+## ⚡ EXPERTISE & TECHNOLOGIES
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,npm" />
 </p>
 
-### 🎨 UI / UX & Design
+### 🎨 UI/UX & Design
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
-### 🧰 Tools & Workflow
+### 🛠️ Tools & Workflow
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,github,git,vercel,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-# 🧠 What I Focus On
+## 🎯 AREAS OF INTEREST
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
 ### 💻 WEB DEVELOPMENT
 
-Building responsive and modern websites with clean interfaces and structured code.
+Building modern, responsive, and interactive websites with clean and structured code.
 
 </td>
 
 <td width="33%" align="center">
 
-### 🎨 UI / UX
+### 🎨 UI/UX DESIGN
 
-Designing intuitive interfaces focused on usability, consistency, and user experience.
+Creating intuitive interfaces with a focus on usability, consistency, and visual quality.
 
 </td>
 
@@ -87,87 +87,42 @@ Designing intuitive interfaces focused on usability, consistency, and user exper
 
 ### 🚀 DIGITAL PRODUCT
 
-Turning concepts and ideas into useful and engaging digital experiences.
+Transforming ideas into useful and engaging digital experiences.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
-<table>
-<tr>
-<td width="50%">
+### 📚 Integrated Library Borrowing System
 
-## 📚 Library System
+A web-based integrated library system designed to simplify the book borrowing and management process.
 
-**Integrated Library Borrowing System**
-
-A web-based information system designed to simplify library borrowing and management.
-
-**Focus**
-
-`Web Development`
-`UI/UX`
-`Information Systems`
-
-</td>
-
-<td width="50%">
-
-## ✈️ Airport Website
-
-**Modern Airport Website**
-
-A responsive website concept designed to provide airport information through a clean and intuitive interface.
-
-**Focus**
-
-`Front-End`
-`Responsive Design`
-`UI/UX`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 💎 Premium Apps
-
-**Premium Application Website**
-
-A modern digital product interface designed with a clean and attractive visual experience.
-
-**Focus**
-
-`Web Design`
-`Front-End`
-`UI Design`
-
-</td>
-
-<td width="50%">
-
-## 🧩 More Projects
-
-Currently working on new projects and continuously improving my portfolio.
-
-**Coming Soon**
-
-`Web Development`
-`UI/UX`
-`Creative Technology`
-
-</td>
-</tr>
-</table>
+**Focus:** `Web Development` · `UI/UX` · `Information Systems`
 
 ---
 
-# 📊 GitHub Analytics
+### ✈️ Airport Website
+
+A modern and responsive airport website concept designed to deliver information through a clean and intuitive interface.
+
+**Focus:** `Front-End` · `Responsive Design` · `UI/UX`
+
+---
+
+### 💎 Premium Application Website
+
+A modern website interface designed to showcase premium digital applications with an attractive and user-friendly experience.
+
+**Focus:** `Web Design` · `Front-End` · `UI Design`
+
+---
+
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -187,10 +142,111 @@ Currently working on new projects and continuously improving my portfolio.
 
 ---
 
-# 🐍 My Contribution Snake
+## 🔄 MY DEVELOPMENT PROCESS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/widadur26/widadur26/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+```text
+💡 IDEA
+   ↓
+🔎 RESEARCH
+   ↓
+🎨 DESIGN
+   ↓
+💻 DEVELOP
+   ↓
+🧪 TEST
+   ↓
+🚀 DEPLOY
+   ↓
+📈 IMPROVE
+```
 
-</
+</div>
+
+---
+
+## 📚 CURRENTLY LEARNING
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Web%20Development-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Front--End-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design%20Systems-6C63FF?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🎯 GOALS
+
+* Build a strong professional portfolio
+* Improve modern Front-End Development skills
+* Deepen UI/UX Design knowledge
+* Build real-world Information Systems
+* Improve Git & GitHub workflow
+* Learn modern web technologies
+* Create meaningful digital products
+* Grow into a professional **Web Developer & UI/UX Engineer**
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+### Let's connect and build something meaningful.
+
+<br>
+
+<a href="mailto:widadur26@gmail.com">
+<img src="https://img.shields.io/badge/Email-widadur26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/widadur26">
+<img src="https://img.shields.io/badge/GitHub-widadur26-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/widdcaly_/">
+<img src="https://img.shields.io/badge/Instagram-widdcaly__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@widdcally">
+<img src="https://img.shields.io/badge/TikTok-widdcally-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Facebook-Widadur%20Rohman-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-Widadur%20Rohman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</div>
+
+---
+
+## 👀 PROFILE VIEWS
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=widadur26&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6C63FF,100:0D1117&height=140&section=footer" width="100%"/>
+
+### WIDADUR ROHMAN
+
+**Information Systems Student · Web Developer · UI/UX Engineer**
+
+<br>
+
+*"Turning ideas into digital experiences."*
+
+</div>
