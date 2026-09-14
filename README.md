@@ -1,135 +1,157 @@
-<div align="center">
+# 👋 Hi, I'm Widadur Rohman
 
-<!-- Header dengan gaya berbeda: rect + fade animation -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%20There,%20I'm%20Widadur%20%F0%9F%91%8B&fontSize=38&fontAlignY=45&fontColor=00F0FF&animation=fadeIn" width="100%"/>
+### 💻 Information Systems Student | Web Developer | UI/UX Engineer
 
-<img src="https://komarev.com/ghpvc/?username=widadur26&label=Visitors&color=2C5364&style=flat-square" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I'm+Widadur+Rohman;Web+Developer+%26+UI%2FUX+Engineer;Building+Modern+Digital+Experiences;Always+Learning+%26+Growing" alt="Typing SVG" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header" width="100%"/>
+</p>
 
-<br/>
+---
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
+## 🧑‍💻 About Me
 
-### 🧑‍💻 Tentang Saya
+I'm **Widadur Rohman**, an **Information Systems student at UNUGHA University** who is passionate about technology, web development, and digital product design.
 
-```yaml
-Nama       : Widadur Rohman
-Peran      : Full-Stack Web Developer
-Fokus      : UI/UX & System Design
-Studi      : Sistem Informasi, UNUGHA Cilacap
-Lokasi     : Cilacap, Jawa Tengah, Indonesia 🇮🇩
-Misi       : Menghubungkan frontend yang dinamis
-             dengan backend yang skalabel & andal
+I'm currently deepening my skills in **Web Development** and **UI/UX Engineering**, with a strong interest in creating modern, responsive, user-friendly, and visually appealing digital experiences.
+
+I enjoy turning ideas into functional websites and transforming designs into interactive web interfaces.
+
+> 🚀 **My goal is to continuously learn, build meaningful projects, and grow into a professional Web Developer & UI/UX Engineer.**
+
+---
+
+## 🎯 Currently Learning
+
+```text
+🌐 Web Development
+🎨 UI/UX Design
+⚛️ Front-End Development
+📱 Responsive Web Design
+🧩 Design Systems
+🖥️ Modern Web Technologies
+🚀 Git & GitHub
 ```
 
-<a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=2C5364&center=false&vCenter=true&width=500&lines=const+dev+%3D+%7B+role%3A+%22Full-Stack+Developer%22+%7D%3B;dev.stack+%3D+%5B%22React%22%2C+%22Node.js%22%2C+%22MySQL%22%5D%3B;dev.status+%3D+%22Always+Learning%22%3B" alt="Typing SVG" />
-</a>
+---
 
-</td>
-<td width="40%" align="center">
+## 🛠️ Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=widadur26&show_icons=true&theme=dark&hide_border=true&bg_color=0F2027&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" width="100%"/>
+### 💻 Development
 
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github,vercel" />
+</p>
+
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Statistics
 
-### 🔗 Terhubung Dengan Saya
-
-<a href="mailto:widadur26@gmail.com"><img src="https://img.shields.io/badge/-widadur26%40gmail.com-0F2027?style=flat-square&logo=gmail&logoColor=00F0FF" /></a>
-<a href="https://linkedin.com/in/widadur-rohman"><img src="https://img.shields.io/badge/-widadur_rohman-0F2027?style=flat-square&logo=linkedin&logoColor=00F0FF" /></a>
-<a href="https://instagram.com/widdcaly_"><img src="https://img.shields.io/badge/-@widdcaly_-0F2027?style=flat-square&logo=instagram&logoColor=00F0FF" /></a>
-<a href="https://tiktok.com/@widdcally"><img src="https://img.shields.io/badge/-@widdcally-0F2027?style=flat-square&logo=tiktok&logoColor=00F0FF" /></a>
-<a href="https://facebook.com/widadur.rohman"><img src="https://img.shields.io/badge/-Widadur_Rohman-0F2027?style=flat-square&logo=facebook&logoColor=00F0FF" /></a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=widadur26&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widadur26&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
+</p>
 
 ---
 
-### 🛠️ Tumpukan Teknologi
+## 🔥 Contribution Streak
 
-<table align="center">
-<tr>
-<td align="center" valign="top" width="25%">
-
-**Frontend**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,js,ts,html,css&theme=dark" />
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**Backend**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,postman&theme=dark" />
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**Tools**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,powershell&theme=dark" />
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**Desain & Video**
-<br/><br/>
-<img src="https://img.shields.io/badge/Illustrator-0F2027?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" /><br/>
-<img src="https://img.shields.io/badge/Canva-0F2027?style=flat-square&logo=canva&logoColor=00C4CC" /><br/>
-<img src="https://img.shields.io/badge/Figma-0F2027?style=flat-square&logo=figma&logoColor=F24E1E" /><br/>
-<img src="https://img.shields.io/badge/CapCut-0F2027?style=flat-square&logo=capcut&logoColor=white" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=widadur26&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-### 📈 Aktivitas & Statistik
+### 📚 Integrated Library Borrowing System
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=widadur26&theme=dark&hide_border=true&background=0F2027&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="90%" />
+> A web-based integrated library borrowing system designed to simplify book management and borrowing processes.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=widadur26&theme=react-dark&hide_border=true&bg_color=0F2027&color=00F0FF&line=00F0FF&point=ffffff" width="90%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widadur26&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0F2027&title_color=00F0FF" width="45%" />
-
-</div>
+**Focus:** Web Development • UI/UX • Information Systems
 
 ---
 
-<div align="center">
+### ✈️ Airport Website
 
-### 🐍 Snake Contribution
+> A modern airport website concept focused on providing users with clear information and a smooth browsing experience.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/widadur26/widadur26/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/widadur26/widadur26/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/widadur26/widadur26/output/github-contribution-grid-snake.svg" width="90%">
-</picture>
-
-</div>
+**Focus:** Web Development • Responsive Design • UI/UX
 
 ---
 
-<div align="center">
+### 💎 Premium Application Website
 
-### 🏆 Trophy Room
+> A modern web interface designed to present premium digital applications with a clean and attractive user experience.
 
-<img src="https://github-profile-trophy.vercel.app/?username=widadur26&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" />
+**Focus:** Front-End • UI Design • Responsive Web
 
-</div>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
-</div>
+## 💡 My Development Philosophy
+
+```javascript
+const widadur = {
+    name: "Widadur Rohman",
+    education: "Information Systems Student",
+    university: "UNUGHA University",
+
+    roles: [
+        "Web Developer",
+        "UI/UX Engineer"
+    ],
+
+    interests: [
+        "Web Development",
+        "UI/UX Design",
+        "Front-End Development",
+        "Digital Product Design"
+    ],
+
+    mindset: "Learn → Build → Improve → Repeat 🚀"
+};
+```
+
+---
+
+## 📈 My Goals
+
+* 🌱 Continuously improve my web development skills
+* 🎨 Build better and more intuitive user interfaces
+* 💻 Create real-world web projects
+* 🚀 Build a strong professional portfolio
+* 🤝 Collaborate on interesting projects
+* 📚 Keep learning new technologies
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/widadur26">
+    <img src="https://img.shields.io/badge/GitHub-widadur26-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ "Turning ideas into digital experiences." ✨</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 🚀
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+</p>
