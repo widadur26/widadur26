@@ -1,237 +1,304 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:8B5CF6&height=220&section=header&text=WIDADUR%20ROHMAN&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer%20%7C%20UI%2FUX%20Engineer&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=WIDADUR%20ROHMAN&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=WEB%20DEVELOPER%20%20%E2%80%A2%20%20UI%2FUX%20ENGINEER&descAlignY=62&descSize=18&descColor=A78BFA" width="100%"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Web+Developer;UI%2FUX+Engineer;Building+Modern+Digital+Experiences;Always+Learning+%26+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Information+Systems+Student+%40+UNUGHA+University;Building+Modern+Web+Experiences;Designing+Intuitive+User+Interfaces;Learning.+Building.+Improving." />
 
-<br><br>
+<br/><br/>
 
 <a href="https://github.com/widadur26">
-<img src="https://img.shields.io/badge/GitHub-widadur26-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-widadur26-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
+&nbsp;
 <a href="mailto:widadur26@gmail.com">
-<img src="https://img.shields.io/badge/Email-widadur26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/widdcaly_/">
-<img src="https://img.shields.io/badge/Instagram-widdcaly__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@widdcally">
-<img src="https://img.shields.io/badge/TikTok-widdcally-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-6D5DFB?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+<div align="center">
 
-I'm **Widadur Rohman**, an **Information Systems student at UNUGHA University** with a strong interest in **Web Development** and **UI/UX Engineering**.
+## `WHO AM I?`
 
-I enjoy transforming ideas into modern digital products that are **functional, responsive, intuitive, and visually engaging**.
+</div>
 
-Currently, I am continuously developing my skills in **Front-End Development, UI/UX Design, Responsive Web Design, and modern web technologies**.
+I'm **Widadur Rohman**, an **Information Systems student at UNUGHA University** with a growing passion for **Web Development and UI/UX Engineering**.
 
-> **Design with purpose. Build with technology. Create meaningful experiences.**
+I enjoy combining **technology, design, and problem-solving** to create digital experiences that are clean, responsive, intuitive, and useful.
 
----
+Currently, I'm focused on strengthening my skills in **Front-End Development, UI/UX Design, Responsive Web Design, and modern development workflows**.
 
-## ⚡ EXPERTISE & TECHNOLOGIES
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,npm" />
-</p>
-
-### 🎨 UI/UX & Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-</p>
-
-### 🛠️ Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
+> **I don't just build interfaces — I build experiences.**
 
 ---
 
-## 🎯 AREAS OF INTEREST
+## ✦ CORE FOCUS
 
 <table>
 <tr>
-
 <td width="33%" align="center">
 
-### 💻 WEB DEVELOPMENT
+### `01`
 
-Building modern, responsive, and interactive websites with clean and structured code.
+### WEB DEVELOPMENT
+
+Modern and responsive websites with clean structure, reusable components, and intuitive interactions.
 
 </td>
 
 <td width="33%" align="center">
 
-### 🎨 UI/UX DESIGN
+### `02`
 
-Creating intuitive interfaces with a focus on usability, consistency, and visual quality.
+### UI / UX ENGINEERING
+
+Turning user needs and design concepts into interfaces that are simple, consistent, and enjoyable to use.
 
 </td>
 
 <td width="33%" align="center">
 
-### 🚀 DIGITAL PRODUCT
+### `03`
 
-Transforming ideas into useful and engaging digital experiences.
+### DIGITAL PRODUCTS
+
+Transforming ideas into practical digital products through design, development, testing, and iteration.
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## 🚀 FEATURED PROJECTS
-
-### 📚 Integrated Library Borrowing System
-
-A web-based integrated library system designed to simplify the book borrowing and management process.
-
-**Focus:** `Web Development` · `UI/UX` · `Information Systems`
-
----
-
-### ✈️ Airport Website
-
-A modern and responsive airport website concept designed to deliver information through a clean and intuitive interface.
-
-**Focus:** `Front-End` · `Responsive Design` · `UI/UX`
-
----
-
-### 💎 Premium Application Website
-
-A modern website interface designed to showcase premium digital applications with an attractive and user-friendly experience.
-
-**Focus:** `Web Design` · `Front-End` · `UI Design`
-
----
-
-## 📊 GITHUB ANALYTICS
+# ⚡ TECHNOLOGY STACK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=widadur26&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" width="49%"/>
+### FRONT-END
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widadur26&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" width="40%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" />
 
-</div>
+<br/><br/>
 
-<br>
+### BACK-END & DATABASE
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" />
 
-<img src="https://streak-stats.demolab.com?user=widadur26&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=888888" width="70%"/>
+<br/><br/>
+
+### UI / UX & CREATIVE TOOLS
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+
+<br/><br/>
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
 
 </div>
 
 ---
 
-## 🔄 MY DEVELOPMENT PROCESS
+# 🧩 DESIGN & DEVELOPMENT
+
+<div align="center">
+
+|      DESIGN     |  DEVELOPMENT  | DEPLOYMENT |
+| :-------------: | :-----------: | :--------: |
+|   🎨 UI Design  |  💻 Front-End |  🚀 Vercel |
+|  🧠 UX Thinking |    ⚛️ React   |   🔧 Git   |
+|  📐 Wireframing |     ⚡ Vite    |  🐙 GitHub |
+| 🖼️ Prototyping | 📱 Responsive |   🌐 Web   |
+
+</div>
+
+---
+
+# 🚀 SELECTED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 LIBRARY SYSTEM
+
+**Integrated Library Borrowing System**
+
+A web-based information system designed to simplify library borrowing and management through an intuitive interface.
+
+`Information Systems`
+`Web Development`
+`UI/UX`
+
+</td>
+
+<td width="50%">
+
+### ✈️ AIRPORT WEBSITE
+
+**Modern Airport Web Interface**
+
+A responsive website concept focused on presenting airport information clearly through a modern digital experience.
+
+`Front-End`
+`Responsive Design`
+`UI/UX`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💎 PREMIUM APPLICATION
+
+**Premium Application Website**
+
+A modern interface for presenting premium digital applications with a clean visual hierarchy and user-friendly experience.
+
+`Web Design`
+`Front-End`
+`UI Design`
+
+</td>
+
+<td width="50%">
+
+### 🚧 MORE TO COME
+
+**Currently Building**
+
+Continuously exploring new ideas, technologies, and real-world projects to expand my development portfolio.
+
+`Learning`
+`Experimenting`
+`Building`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GITHUB PERFORMANCE
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=widadur26&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widadur26&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" width="40%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=widadur26&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=777777" width="70%"/>
+
+</div>
+
+---
+
+# 🧠 DEVELOPMENT MINDSET
 
 <div align="center">
 
 ```text
-💡 IDEA
-   ↓
-🔎 RESEARCH
-   ↓
-🎨 DESIGN
-   ↓
-💻 DEVELOP
-   ↓
-🧪 TEST
-   ↓
-🚀 DEPLOY
-   ↓
-📈 IMPROVE
+     DISCOVER
+         │
+         ▼
+      DEFINE
+         │
+         ▼
+       DESIGN
+         │
+         ▼
+       DEVELOP
+         │
+         ▼
+        TEST
+         │
+         ▼
+       DEPLOY
+         │
+         ▼
+       IMPROVE
+         │
+         └───────────────↻
 ```
 
 </div>
 
----
+### My principle
 
-## 📚 CURRENTLY LEARNING
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Web%20Development-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Front--End-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design%20Systems-6C63FF?style=for-the-badge"/>
-
-</p>
+**Understand the problem → Design the solution → Build the product → Improve the experience.**
 
 ---
 
-## 🎯 GOALS
-
-* Build a strong professional portfolio
-* Improve modern Front-End Development skills
-* Deepen UI/UX Design knowledge
-* Build real-world Information Systems
-* Improve Git & GitHub workflow
-* Learn modern web technologies
-* Create meaningful digital products
-* Grow into a professional **Web Developer & UI/UX Engineer**
-
----
-
-# 🌐 CONNECT WITH ME
+# 📚 CURRENTLY EXPLORING
 
 <div align="center">
 
-### Let's connect and build something meaningful.
+<img src="https://img.shields.io/badge/Modern%20Frontend-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000"/>
+<img src="https://img.shields.io/badge/UI%2FUX-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-6D5DFB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Design%20Systems-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=FFFFFF"/>
 
-<br>
+</div>
+
+---
+
+# 🎯 2026 — GOALS
+
+```text
+01  →  Become stronger in Front-End Development
+02  →  Improve UI/UX Engineering skills
+03  →  Build real-world Information Systems
+04  →  Create better digital products
+05  →  Build a professional developer portfolio
+06  →  Collaborate on meaningful projects
+07  →  Keep learning new technologies
+```
+
+---
+
+# 🌐 LET'S CONNECT
+
+<div align="center">
+
+### Open to collaboration, ideas, and meaningful projects.
+
+<br/>
 
 <a href="mailto:widadur26@gmail.com">
-<img src="https://img.shields.io/badge/Email-widadur26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-widadur26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/widadur26">
-<img src="https://img.shields.io/badge/GitHub-widadur26-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-widadur26-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/widdcaly_/">
-<img src="https://img.shields.io/badge/Instagram-widdcaly__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-widdcaly__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.tiktok.com/@widdcally">
-<img src="https://img.shields.io/badge/TikTok-widdcally-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/TIKTOK-widdcally-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Facebook-Widadur%20Rohman-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/FACEBOOK-Widadur%20Rohman-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LinkedIn-Widadur%20Rohman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</div>
-
----
-
-## 👀 PROFILE VIEWS
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=widadur26&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Widadur%20Rohman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </div>
 
@@ -239,14 +306,18 @@ A modern website interface designed to showcase premium digital applications wit
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6C63FF,100:0D1117&height=140&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=widadur26&label=PROFILE%20VISITORS&color=A78BFA&style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D5DFB,100:0D1117&height=150&section=footer" width="100%"/>
 
 ### WIDADUR ROHMAN
 
-**Information Systems Student · Web Developer · UI/UX Engineer**
+`Information Systems Student` · `Web Developer` · `UI/UX Engineer`
 
-<br>
+<br/>
 
-*"Turning ideas into digital experiences."*
+<em>Turning ideas into digital experiences.</em>
 
 </div>
