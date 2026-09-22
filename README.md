@@ -103,7 +103,6 @@
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
-<sub>Cek kembali link Facebook di atas — disesuaikan otomatis dari nama, mungkin perlu diperbaiki manual.</sub>
 
 </div>
 
