@@ -74,16 +74,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=widadurrohman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=widadurrohman&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=widadur26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=widadur26&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=widadurrohman&theme=tokyo-night&hide_border=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=widadur26&theme=tokyo-night&hide_border=true" width="97%" />
 
 </div>
 
-<sub>Replace <code>widadurrohman</code> above with your actual GitHub username so the stats pull your real data.</sub>
+<sub>Ganti <code>widadur26</code> di atas dengan username GitHub kamu supaya statistiknya menampilkan data asli.</sub>
 
 <br/>
 
@@ -91,20 +91,23 @@
 
 <div align="center">
 
-<a href="mailto:youremail@example.com">
+<a href="mailto:widadur26@gmail.com">
 <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/widadurrohman">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/">
+<a href="https://www.facebook.com/widadur.rohman">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/widdcaly_">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://dribbble.com/">
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+<a href="https://www.tiktok.com/@widdcally">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
-<sub>Update the links above with your real profiles.</sub>
+<sub>Cek kembali link Facebook di atas — disesuaikan otomatis dari nama, mungkin perlu diperbaiki manual.</sub>
 
 </div>
 
