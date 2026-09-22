@@ -83,10 +83,6 @@
 
 </div>
 
-<sub>Ganti <code>widadur26</code> di atas dengan username GitHub kamu supaya statistiknya menampilkan data asli.</sub>
-
-<br/>
-
 ## Let's Connect
 
 <div align="center">
